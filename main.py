@@ -4,7 +4,7 @@ import numpy as np
 
 
 # -------------------------------------------
-filename = "Truck_Drone_Contest.txt"
+filename = "Truck_Drone_Contest_new.txt"
 n_drones = 2 #fixed
 drone_capacity = 1 #fixed
 depot_index=0 #fixed
